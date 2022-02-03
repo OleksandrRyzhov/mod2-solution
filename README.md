@@ -1,2 +1,2 @@
-# module2-solution
+# mod2-solution
 Module 2 solution repository
